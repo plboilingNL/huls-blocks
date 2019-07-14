@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "/uslugi"
     link_text: Usługi
-  - link: "#"
-    link_text: Pricing
+  - link: "/cennik"
+    link_text: Cennik
   - link: "#"
     link_text: Team
   cta:
