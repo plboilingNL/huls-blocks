@@ -15,9 +15,9 @@ sections:
   path: ''
   label: Pages
   create: all
-  match: "*.md"
+  match: "*.html"
   exclude: "*README.md"
-  new_doc_ext: md
+  new_doc_ext: html
 - type: document
   path: _config.yml
   label: Config
