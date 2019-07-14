@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "/uslugi"
-    link_text: usługi
+    link_text: Usługi
   - link: "#"
     link_text: Pricing
   - link: "#"
