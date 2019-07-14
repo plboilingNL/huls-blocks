@@ -1,4 +1,10 @@
 ---
 label: Usługi
-hide_body: false
-fields: []
+hide_body: true
+fields:
+- name: uslugi
+  type: include
+  config: {}
+  template: page-builder
+  label: Usługi
+  description: uslugi
